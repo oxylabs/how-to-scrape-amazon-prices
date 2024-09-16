@@ -101,3 +101,5 @@ deal_df.to_csv("deals.csv")
 Check our [documentation](https://developers.oxylabs.io/scraper-apis/e-commerce-scraper-api/amazon) for all of the API parameters found in this guide.
 
 If you have any questions, feel free to contact us at support@oxylabs.io or via the live chat on our [homepage](https://oxylabs.io/).
+
+Looking to scrape more other Amazon data? [Amazon Review Scraper](https://github.com/oxylabs/amazon-review-scraper), [Amazon ASIN Scraper](https://github.com/oxylabs/amazon-asin-scraper), [Bypass Amazon CAPTCHA](https://github.com/oxylabs/how-to-bypass-amazon-captcha), [Scraping Amazon Product Data](https://github.com/oxylabs/how-to-scrape-amazon-product-data)
