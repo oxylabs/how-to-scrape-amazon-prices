@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Here's the process of scraping best-selling items, search results, and currently available deals from Amazon using Python and Oxylabs [E-Commerce Scraper API](https://oxylabs.io/products/scraper-api/ecommerce) (**1-week free trial**).
+Here's the process of scraping best-selling items, search results, and currently available deals from Amazon using Python and Oxylabs [E-Commerce Scraper API](https://oxylabs.io/products/scraper-api/ecommerce) (a part of Web Scraper API). You can claim a **1-week free trial** by registering on the [dashboard](https://dashboard.oxylabs.io/).
 
 For a detailed walkthrough with explanations and visuals, check our [blog post](https://oxylabs.io/blog/scraping-amazon-prices).
 
@@ -98,7 +98,7 @@ deal_df.to_csv("deals.csv")
 
 ## Final word
 
-Check our [documentation](https://developers.oxylabs.io/scraper-apis/e-commerce-scraper-api/amazon) for all of the API parameters found in this guide.
+Check our [documentation](https://developers.oxylabs.io/scraper-apis/web-scraper-api/amazon) for all of the API parameters found in this guide.
 
 If you have any questions, feel free to contact us at support@oxylabs.io or via the live chat on our [homepage](https://oxylabs.io/).
 
