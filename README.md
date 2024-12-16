@@ -2,6 +2,18 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
+  * [Free Amazon Prices Scraper](#free-amazon-prices-scraper)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Retrieving the URL of an Amazon page to scrape prices from](#retrieving-the-url-of-an-amazon-page-to-scrape-prices-from)
+  * [Scraping Amazon prices](#scraping-amazon-prices)
+  * [Retrieved data](#retrieved-data)
+  * [Notes](#notes)
+  * [Scraping with Oxylabs API](#scraping-with-oxylabs-api)
+  * [The complete code](#the-complete-code)
+
+Follow this quick and easy tutorial to scrape public Amazon pricing data; in the first part of the tutorial, we'll show how you can do it for free. If you need the pricing data on a bigger scale, please refer to the second part of the tutorial; there, we demonstrate how to do it with [Oxylabs API](https://oxylabs.io/products/scraper-api/web). 
+
 ### Free Amazon Prices Scraper
 
 A free tool used to get Amazon product prices for a provided Amazon department page.
