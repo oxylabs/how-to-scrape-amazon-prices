@@ -72,7 +72,6 @@ The data should look something like this:
 
 <img width="717" alt="image" src="https://github.com/user-attachments/assets/4e00fecc-8176-4248-9b63-0bc6dd382905" />
 
-
 ### Notes
 
 In case the code doesn't work or your project is of bigger scale, please refer to the second part of the tutorial. There, we showcase how to scrape public data with Oxylabs Scraper API.
