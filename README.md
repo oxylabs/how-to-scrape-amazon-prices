@@ -176,7 +176,7 @@ deal_df.to_csv("deals.csv")
 
 ## Final word
 
-Check our [documentation](https://developers.oxylabs.io/scraper-apis/web-scraper-api/amazon) for all of the API parameters found in this guide.
+Check our [documentation](https://developers.oxylabs.io/api-targets/e-commerce/amazon) for all of the API parameters found in this guide.
 
 If you have any questions, feel free to contact us at support@oxylabs.io or via the live chat on our [homepage](https://oxylabs.io/).
 
